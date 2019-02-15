@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+h1 {
+	text-align: center;
+	border: 1px #004000 solid;
+	color: #fde9aa;
+	background-color: #064d04;
+}
+
+form {
+	width: 300px;
+	margin: auto;
+	color: #000028;
+}
+
+.bloc {
+	width: 250px;
+	background: #fdf5ea;
+	color: #001700;
+	border-radius: 5px;
+	margin-bottom: 15px;
+}
+
+fieldset {
+	color: #2c070a;
+	border-color: #ffe8e6;
+}
+
+.bouton{
+    width: 80px;
+    margin-left: 45px;
+    border-radius: 5px;
+}
+
+label {
+	display: block;
+}
